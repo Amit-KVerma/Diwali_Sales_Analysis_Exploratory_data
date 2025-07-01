@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis_Exploratory_data
+# Diwali_Sales (EDA) By Using Python
 
 ## Libraries Used
 - Pandas
