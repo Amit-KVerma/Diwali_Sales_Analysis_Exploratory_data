@@ -1,2 +1,6 @@
 # Diwali_Sales_Analysis_Exploratory_data
-## Project Learnings
+## Libraries Used
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
